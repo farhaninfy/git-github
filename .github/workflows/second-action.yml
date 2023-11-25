@@ -6,5 +6,5 @@ jobs:
     steps:
       - name: Get Code
       - uses: actions/checkout@v3
-      - name: Install Pythonm
+      - name: Install Python
       - uses : actions/setup-python
